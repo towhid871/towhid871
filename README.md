@@ -22,7 +22,3 @@ Skills: WordPress / HTML / CSS / Python /  Django
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=towhid871&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/towhid871)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=towhid871)  
-
