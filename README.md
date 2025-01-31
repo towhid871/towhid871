@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, It's Towhid</h1>
-<h3 align="center">A Simple Person With A Complex Mindset</h3>
+<h3 align="center">I strongly believe in the Almighty who can do anything, anytime</h3>
 
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>- Research in Cryptography  <br>- Research Portal Software (Native App + Web)  <br>- Open Free Book Upload Platform  <br><br>👯 **I’m looking to collaborate on:**  <br>- Python Projects  <br>- Backend Development  <br><br>🌱 **I’m currently learning:**  <br>- Machine Learning  <br>- React.js (Native + Web)  <br>- Competitive Programming through Practice  <br><br>💬 **Ask me about:**  <br>- Myself  <br>- Cryptography  <br>- Project Planning  <br><br>⚡ **Fun fact:**  <br>I want to be the "Rabindranath of Computer Science."<br>
+🔭 **I’m currently working on:**  <br>- Learning Django with JavaScript  <br>- Research on Website SEO  <br>- Corporate holder in Arabika  <br><br>👯 **I’m looking to collaborate on:**  <br>- Python Projects  <br>- Backend Development <br>- WordPress Development  <br><br>🌱 **I’m currently learning:**  <br>- Django with JS  <br>- JavaScript <br>- Full-Statck Web Development (Djano+JavaScript)  <br><br>💬 **Ask me about:**  <br>- Myself  <br>- WordPress <br>- Web Development <br>- Project Planning  <br><br>⚡ **Fun fact:**  <br>I'm single about 23 years"<br>
 
 
 ## 🌐 Socials:
