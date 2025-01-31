@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rafi</h1>
+<h1 align="center">Hi 👋, It's Towhid</h1>
 <h3 align="center">A Simple Person With A Complex Mindset</h3>
 
 # 💫 About Me:
